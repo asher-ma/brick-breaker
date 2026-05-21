@@ -1,0 +1,32 @@
+{
+    "image2": {
+        "data": "hwQUAAQAAACqqgAAqqoAAKqqAACqqgAAqqoAAKqqAACqqgAAqqoAAKqqAACqqgAAqqoAAKqqAACqqgAAqqoAAKqqAACqqgAAqqoAAKqqAACqqgAAqqoAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "paddleImg"
+    },
+    "image3": {
+        "data": "hwQQABAAAAC7u7u7u7u7u8u7u7u7u7u8u6szMxMxvLu7OjMzMxPDu7szMzMzM8G7uzMzMzMzwbu7MzMzMzPBu7szMzMzM8G7uzMzMzMzwbu7MzMzMzPBu7szMzMzM8G7uzMzMzMzwbu7OjMzMxPDu7urMzMTMby7y7u7u7u7u7y7u7u7u7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "nothing"
+    },
+    "image4": {
+        "data": "hwQQAA8AAAAAIiIiAAAAAAAiIiIAAAAAIjMjIiIAAAAiMyMiIgAAACIiIiIiAgAAACIiIiIiAgAAIiIiIiICAAAAIiIiIiICAAAiIiIiIgIAIiIiIisCAAAiIiIiKwIAIiIiIrsCAAAiIiIiIgAAACIiIiIiAAAAACIiIgAAAAAAIiIiAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "heartImg"
+    },
+    "image5": {
+        "data": "hwQSAAwAAAAzMzMzMzMAADMzMzMzMwAAMzMzMzMzAAAzMzMzMzMAADMzMzMzMwAAMzMzMzMzAAAzMzMzMzMAADMzMzMzMwAAMzMzMzMzAAAzMzMzMzMAADMzMzMzMwAAMzMzMzMzAAAzMzMzMzMAADMzMzMzMwAAMzMzMzMzAAAzMzMzMzMAADMzMzMzMwAAMzMzMzMzAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "brickImg"
+    },
+    "image1": {
+        "data": "hwQGAAYAAACgqgoAqjOqADozowA6M6MAqjOqAKCqCgA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ballImg"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
